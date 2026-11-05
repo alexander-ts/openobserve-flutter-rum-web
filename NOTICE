@@ -1,0 +1,11 @@
+openobserve_flutter_rum_web
+Copyright 2026 Alexander Tsoy
+
+This product includes software developed at Datadog (https://www.datadoghq.com/).
+Parts of the JS interop bindings are modeled on the web implementation of
+datadog_flutter_plugin (https://github.com/DataDog/dd-sdk-flutter),
+Copyright 2019-Present Datadog, Inc., licensed under the Apache License 2.0.
+
+This package calls the OpenObserve Browser SDK
+(https://github.com/openobserve/browser-sdk), licensed under the Apache
+License 2.0. The SDK is not bundled with this package.

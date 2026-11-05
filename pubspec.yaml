@@ -1,0 +1,16 @@
+name: openobserve_flutter_rum_web
+description: >-
+  Unofficial Dart bindings for the OpenObserve Browser SDK (RUM and Logs).
+version: 0.1.0
+repository: https://github.com/alexander-ts/openobserve-flutter-rum-web
+publish_to: none
+
+environment:
+  sdk: ^3.10.0
+
+dependencies:
+  meta: ^1.15.0
+
+dev_dependencies:
+  lints: '>=5.0.0'
+  test: '>=1.25.0'
