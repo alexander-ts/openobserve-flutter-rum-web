@@ -1,0 +1,19 @@
+name: openobserve_flutter_rum_web_example
+description: >-
+  Flutter web app that reports views, actions, errors and logs to OpenObserve.
+publish_to: none
+
+environment:
+  sdk: ^3.10.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  openobserve_flutter_rum_web:
+    path: ../
+
+dev_dependencies:
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
